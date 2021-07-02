@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Phải chăng em đã yêu ngay từ cái nhìn Hoàng đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười của Hoàng ',
     btnYes: 'Hoàng đẹp troaiii nhứt nách <33',
-    btnNo: 'Không, Hoàng xấu bome à :3',
+    btnNo: 'Không, Hoàng xấu bome à :33',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Hoàng <3',
     btnReply: 'Gửi cho Hoàng <3',
     reply: 'Vì nụ cười của Hoàng đẹp nhứttt trên đờiiiii <33333333',
