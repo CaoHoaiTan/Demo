@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Điều kiện chọn người yêu của Hoàng chỉ có một. Phải có nụ cười đẹp như Hoàng vậy đó!!!`,
     btnIntro: '🤩🤩🤩',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn Hoàng đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười của Hoàng ',
+    desc: 'Phải chăng em đã  say ngay từ lúc thấy nụ cười của Hoàng ',
     btnYes: 'Hoàng đẹp troaiii nhứt nách <33',
     btnNo: 'Không, Hoàng xấu bome à :33',
     question: 'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Hoàng <3',
